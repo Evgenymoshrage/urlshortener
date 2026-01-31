@@ -19,12 +19,12 @@ example.com/shortener.go:29.2,30.6 2 1
 example.com/shortener.go:30.6,35.14 5 1
 example.com/shortener.go:35.14,36.9 1 1
 example.com/shortener.go:40.2,43.21 4 1
-example.com/shortener.go:47.69,51.9 4 0
-example.com/shortener.go:51.9,53.3 1 0
-example.com/shortener.go:54.2,54.22 1 0
+example.com/shortener.go:47.69,51.9 4 1
+example.com/shortener.go:51.9,53.3 1 1
+example.com/shortener.go:54.2,54.22 1 1
 example.com/shortener.go:58.31,62.2 3 1
 example.com/shortener.go:65.34,67.16 2 1
 example.com/shortener.go:67.16,69.3 1 1
 example.com/shortener.go:70.2,70.47 1 1
-example.com/shortener.go:70.47,72.3 1 0
+example.com/shortener.go:70.47,72.3 1 1
 example.com/shortener.go:73.2,73.13 1 1
